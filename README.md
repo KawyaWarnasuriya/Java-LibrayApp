@@ -12,6 +12,9 @@ This is a simple **Library Management System** implemented in Java. It allows us
 ## Technologies Used 🛠️
 - Java
 - Object-Oriented Programming (OOP)
+<p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+</p>
 
 ## Usage 📌
 1. The system loads pre-defined books and members.
